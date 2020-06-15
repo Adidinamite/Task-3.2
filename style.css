@@ -1,0 +1,28 @@
+.font{
+    color: #60707a;
+    font-family: 'Montserrat', sans-serif;
+}
+.userName{
+    font-weight: bold;
+    display: flex;
+}
+.container{
+    border: 5px solid #0191ff;
+    padding : 11px;
+    display:flex;
+    margin-bottom: 20px;
+}
+.containerText{
+    padding : 5px ;
+}
+.image{
+    width: 55px;height:55px;
+}
+.right{
+    justify-content: flex-end;
+}
+.mainContainer{
+    padding: 25px;
+   border: 8px solid orange;
+
+}
